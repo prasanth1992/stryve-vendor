@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stryve-f64fe",
+  "private_key_id": "0ecbfe38d69cd7a231d3ac4198fadd12b249ffe1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDOiJXdV+NLK7dD\ngzX4Zv5+E9dzLElDUkl78re4xZ70wjnwKcvTygVdL0N7wipojTn9QtE3mZZdD0s9\nyRXVPLqyfCRYeksmZPp+3jofDaO/s4BgsHhV2qfGWckhlqxx7bASjNSN0/7g9YrX\nRCPeVjOmucnoh/qOf8yet4+FN8ENpKZTwnB1dQjdIiFQVoNp7ArthC6oMtxScn0K\nyuw4FhJbZvUY/GFG97bzxpQWGDGexSurzPvOy9JNKVFD5b3ZlHCBaI24qeGG869W\nXU5k6M3+h1FDRj+5dyti2jhc9gdOLVCfH1CasHL9+1dmTczWkxsDmNmKuOGZw8tQ\nTbVY78OHAgMBAAECggEAWffEtMV2xUWXUQkExx7yiHBTP6AQkAt16FD8eDhZ/Ivp\nGjXSzQDpYkTW9D/KIn42vxzOr5Yvmn0xjQoeASQxvdN3L7WiK+j7960Ni35xEO58\nI2JsIRYdVLnC9GdC2mQseYAwjVHGay97GjfcGhvZ5yxyiGFHo7CHLbKPifwWFD8X\nAQaky2WhDAuHlVFSsR5GUBgtM8YrJvbWdpajlAn2at/WLOk1MmVYYmeX4elX/qUm\nd/scPxwXA0HtwJOhQFRaGIm945Lkbk/an+Dbb5hFAkUvym3fdintrvcJfEsRR/J4\nZYPfPKRQlkgkTrvpszCvng/7qihj3jELoUAjB5z2QQKBgQDx295mKarcJDIHzQSC\nvlndl+xQ6uGlisAW16LOr6l/7qW4Lp3ZFyMrtJ+/wERlH+OHptqo8NtdHoDI4lQ+\naxMx4yoAlfjHXR5TQ+BunCUASoQskRc2VJBwlUwRFkupiQ417Tecg0SZAc7mj8KC\nWruqfxYc7CGp4tAeOqsewp++wQKBgQDam/gOfgnB0YQrWZ+q2/C7eFYzgt2govnu\nYqMYL9Y5T28u5KB3gJ/SwgF0wP4FjdLt0pl70E045/hvUn7cathm5TG6l4XbnGQr\n+qPDFvKwBXo9mM4bVStZGhDfh/EUt/bg+3FSHsmR8js9hj7Ql3vlJ/x7fU721zrl\nKsy+t7TcRwKBgQCU3iPHOHB9rh3JZW0YWLgRyFhh+iFH9t6DcNk6ZS9smmUQuEja\nff5dAYGu0laG9Bjlv1Mp147+gy779yupe9jFxTBuSeFmPS/USpxTGPNBeZxfnjLu\ncyCw24SFo/aQdNb1ZHztbnMDxvQmQGiWOej3aeAfj0ytN/moEa6QcXVIQQKBgQDI\nkDYKHcqX3sBzATwDBtybMrFrexIY0c2Zzzcw9pqFZAJutGUgnoqDU2kAlBu6Pr8Z\nYJFeTeK7Zd/BSp+HXCOEa5yvQ1sU/CvPSZm7YC9yHORk5O+blg06Jzb5zf/58Tn4\nedgi7ooic2m0bZjtyT1rJb94EKRExXyMSjMkeujc+wKBgQChrfrN6rdWOY3eAgPr\nxcvJyVVG0Y3aixryb185ih2QDdSOelx+wl5mdILtkC7WTHqvtmTT7KqbN2etWvx3\nny6Xw6VKaZJkSAJi4vIyVJqSCIy4aSRFWNhewPLDNNvS+KcqYtfJSsmzicqPkKRr\njUpQvmsUuAPeM6Q7K1silfaGhw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "stryveaccount@stryve-f64fe.iam.gserviceaccount.com",
+  "client_id": "105711236114356857958",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stryveaccount%40stryve-f64fe.iam.gserviceaccount.com"
+}
